@@ -1,4 +1,5 @@
 def rotateArr(arr, d):
+    #Your code here
     
     l = len(arr)
     t = [0]*l
@@ -20,7 +21,7 @@ def rotateArr(arr, d):
         for a in range(l):
             arr[a] = t[a]
         
-        return arr   
+        return arr
     
 ip1 = [[1, 2, 3, 4, 5],2]
 ip2 = [[2, 4, 6, 8, 10, 12, 14, 16, 18, 20],3]
