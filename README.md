@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 
 ## 📋 Contents
 
-- [GFG][1.Second_Largest.py](GFG/1_Second_Largest.py)
+- [1.Second_Largest.py](GFG/1_Second_Largest.py)
 - [2.Move_All_Zeroes_to_End.py](GFG/2_Move_All_Zeroes_to_End.py)
 - [3.Reverse_an_Array.py](GFG/3_Reverse_an_Array.py)
 - [4.Rotate_Array.py](GFG/4_Rotate_Array.py)
