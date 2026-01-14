@@ -9,6 +9,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [3.Reverse_an_Array.py](GFG/3.Reverse_an_Array.py)
 - [4.Rotate_Array.py](GFG/4.Rotate_Array.py)
 - [5.Next_Permutation.py](GFG/5.Next_Permutation.py)
+- [6.Majority_Element_More_Than_n_3.py](GFG/6.Majority_Element_More_Than_n_3.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
