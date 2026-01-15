@@ -10,7 +10,9 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [4.Rotate_Array.py](GFG/4_Rotate_Array.py)
 - [5.Next_Permutation.py](GFG/5_Next_Permutation.py)
 - [6.Majority_Element_More_Than_n_3.py](GFG/6_Majority_Element_More_Than_n_3.py)
+- [7.Stock_Buy_and_Sell_Multiple_Transaction_Allowed.py](GFG/7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed.py)
 - [graph.py](GFG/graph.py)
+
 
 ## 🚀 Getting Started
 
