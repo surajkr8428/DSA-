@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [7.Stock Buy and Sell Multiple Transaction Allowed.py](GFG/7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed.py)
 - [8.Stock Buy and Sell Max one Transaction Allowed.py](GFG/8_Stock_Buy_and_Sell_Max_one_Transaction_Allowed.py)
 - [9.Minimize the Heights II.py](GFG/9_Minimize_the_Heights_II.py)
+- [10.Kadanes Algorithm.py](GFG/10_Kadanes_Algorithm.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
