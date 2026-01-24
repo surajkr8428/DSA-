@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [11.Maximum Product Subarray.py](GFG/11_Maximum_Product_Subarray.py)
 - [12.Max Circular Subarray Sum.py](GFG/12_Max_Circular_Subarray_Sum.py)
 - [13.Smallest Positive Missing.py](GFG/13_Smallest_Positive_Missing.py)
+- [14 Implement Atoi.py](GFG/14_Implement_Atoi.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
