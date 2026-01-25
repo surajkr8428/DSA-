@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [13.Smallest Positive Missing.py](GFG/13_Smallest_Positive_Missing.py)
 - [14 Implement Atoi.py](GFG/14_Implement_Atoi.py)
 - [15.Add Binary Strings.py](GFG/15_Add_Binary_Strings.py)
+- [16.Anagram.py](GFG/16_Anagram.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
