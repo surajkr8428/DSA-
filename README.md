@@ -21,6 +21,8 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [15.Add Binary Strings.py](GFG/15_Add_Binary_Strings.py)
 - [16.Anagram.py](GFG/16_Anagram.py)
 - [17.Non Repeating Character.py](GFG/17_Non_Repeating_Character.py)
+- [18.Search Pattern.py](GFG/18_Search_Pattern.py)
+- [19.Min Chars to Add for Palindrome.py](GFG/19_Min_Chars_to_Add_for_Palindrome.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
