@@ -24,6 +24,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [18.Search Pattern.py](GFG/18_Search_Pattern.py)
 - [19.Min Chars to Add for Palindrome.py](GFG/19_Min_Chars_to_Add_for_Palindrome.py)
 - [20.Strings Rotations of Each Other.py](GFG/20_Strings_Rotations_of_Each_Other.py)
+- [22. Find H Index.py](GFG/22_Find_H_Index.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
