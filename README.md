@@ -4,8 +4,8 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 
 ## 📋 Contents
 
-- [1.Second Largest.py](GFG/1_Second_Largest.py)
-- [2.Move All Zeroes to End.py](GFG/2_Move_All_Zeroes_to_End.py)
+- [1. Second Largest.py](GFG/1_Second_Largest.py)
+- [2. Move All Zeroes to End.py](GFG/2_Move_All_Zeroes_to_End.py)
 - [3.Reverse an Array.py](GFG/3_Reverse_an_Array.py)
 - [4.Rotate Array.py](GFG/4_Rotate_Array.py)
 - [5.Next Permutation.py](GFG/5_Next_Permutation.py)
@@ -23,6 +23,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [17.Non Repeating Character.py](GFG/17_Non_Repeating_Character.py)
 - [18.Search Pattern.py](GFG/18_Search_Pattern.py)
 - [19.Min Chars to Add for Palindrome.py](GFG/19_Min_Chars_to_Add_for_Palindrome.py)
+- [20.Strings Rotations of Each Other.py](GFG/20_Strings_Rotations_of_Each_Other.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
