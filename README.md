@@ -12,10 +12,10 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [6. Majority Element More Than n/3.py](GFG/6_Majority_Element_More_Than_n_3.py)
 - [7. Stock Buy and Sell Multiple Transaction Allowed.py](GFG/7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed.py)
 - [8. Stock Buy and Sell Max one Transaction Allowed.py](GFG/8_Stock_Buy_and_Sell_Max_one_Transaction_Allowed.py)
-- [9.Minimize the Heights II.py](GFG/9_Minimize_the_Heights_II.py)
-- [10.Kadanes Algorithm.py](GFG/10_Kadanes_Algorithm.py)
-- [11.Maximum Product Subarray.py](GFG/11_Maximum_Product_Subarray.py)
-- [12.Max Circular Subarray Sum.py](GFG/12_Max_Circular_Subarray_Sum.py)
+- [9. Minimize the Heights II.py](GFG/9_Minimize_the_Heights_II.py)
+- [10. Kadanes Algorithm.py](GFG/10_Kadanes_Algorithm.py)
+- [11. Maximum Product Subarray.py](GFG/11_Maximum_Product_Subarray.py)
+- [12. Max Circular Subarray Sum.py](GFG/12_Max_Circular_Subarray_Sum.py)
 - [13.Smallest Positive Missing.py](GFG/13_Smallest_Positive_Missing.py)
 - [14 Implement Atoi.py](GFG/14_Implement_Atoi.py)
 - [15.Add Binary Strings.py](GFG/15_Add_Binary_Strings.py)
@@ -26,6 +26,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [20.Strings Rotations of Each Other.py](GFG/20_Strings_Rotations_of_Each_Other.py)
 - [22. Find H Index.py](GFG/22_Find_H_Index.py)
 - [23. Count Inversions.py](GFG/23_Count_Inversions.py)
+- [24. Overlapping Intervals.py](GFG/24_Overlapping_Intervals.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
