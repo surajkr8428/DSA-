@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [22. Find H Index.py](GFG/22_Find_H_Index.py)
 - [23. Count Inversions.py](GFG/23_Count_Inversions.py)
 - [24. Overlapping Intervals.py](GFG/24_Overlapping_Intervals.py)
+- [25. Insert Interval.py](GFG/25_Insert_Interval.py)
 - [graph.py](GFG/graph.py)
 
 ## 🚀 Getting Started
