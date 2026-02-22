@@ -32,6 +32,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [27. Merge Without Extra Space.py](GFG/27_Merge_Without_Extra_Space.py)
 - [28. Peak Element.py](GFG/28_Peak_Element.py)
 - [29. Kth element of two Arrays.py](GFG/29_Kth__element_of_two_Arrays.py)
+- [30. Search in Rotated Sorted Array.py](GFG/30_Search_in_Rotated_Sorted_Array.py)
   
 - [graph.py](GFG/graph.py)
 
