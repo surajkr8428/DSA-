@@ -35,6 +35,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [30. Search in Rotated Sorted Array.py](GFG/30_Search_in_Rotated_Sorted_Array.py)
 - [31. Aggressive Cows.py](GFG/31_Aggressive__Cows.py)
 - [32. Allocate Minimum Pages.py](GFG/32_Allocate_Minimum_Pages.py)
+- [33. Kth Missing Positive Number in a Sorted Array.py](GFG/33_Kth_Missing_Positive_Number_in_a_Sorted_Array.py)
   
 - [graph.py](GFG/graph.py)
 
