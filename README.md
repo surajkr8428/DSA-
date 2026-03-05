@@ -37,6 +37,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [32. Allocate Minimum Pages.py](GFG/32_Allocate_Minimum_Pages.py)
 - [33. Kth Missing Positive Number in a Sorted Array.py](GFG/33_Kth_Missing_Positive_Number_in_a_Sorted_Array.py)
 - [34. Spirally traversing a matrix.py](GFG/34_Spirally_traversing_a_matrix.py)
+- [35. Spirally traversing a matrixSpirally traversing a matrix.py](GFG/35_Spirally_traversing_a_matrixSpirally_traversing_a_matrix.py)
   
 - [graph.py](GFG/graph.py)
 
