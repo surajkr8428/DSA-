@@ -40,6 +40,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [35. Spirally traversing a matrixSpirally traversing a matrix.py](GFG/35_Spirally_traversing_a_matrixSpirally_traversing_a_matrix.py)
 - [36. Rotate by 90 degree.py](GFG/36_Rotate_by_90_degree.py)
 - [37. Set Matrix Zeros.py](GFG/37_Set_Matrix_Zeros.py)
+- [38. Two Sum Pair with Given Sum.py](GFG/38_Two_Sum_Pair_with_Given_Sum.py)
   
 - [graph.py](GFG/graph.py)
 
