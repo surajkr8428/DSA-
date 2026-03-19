@@ -17,3 +17,10 @@ def findTriplets(self, arr):
         i_m[arr[j]].append(j)
         
     return r
+
+arr = [0, -1, 2, -3, 1]
+# arr = [1, -2, 1, 0, 5]
+# arr = [2, 3, 1, 0, 5]
+print("Input: ",arr)
+print("Output: ",findTriplets(arr))
+
