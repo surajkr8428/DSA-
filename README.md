@@ -41,6 +41,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [36. Rotate by 90 degree.py](GFG/36_Rotate_by_90_degree.py)
 - [37. Set Matrix Zeros.py](GFG/37_Set_Matrix_Zeros.py)
 - [38. Two Sum Pair with Given Sum.py](GFG/38_Two_Sum_Pair_with_Given_Sum.py)
+- [39. Count pairs with given sum.py](GFG/39_Count_pairs_with_given_sum.py)
   
 - [graph.py](GFG/graph.py)
 
