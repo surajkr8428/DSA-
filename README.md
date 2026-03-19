@@ -42,6 +42,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [37. Set Matrix Zeros.py](GFG/37_Set_Matrix_Zeros.py)
 - [38. Two Sum Pair with Given Sum.py](GFG/38_Two_Sum_Pair_with_Given_Sum.py)
 - [39. Count pairs with given sum.py](GFG/39_Count_pairs_with_given_sum.py)
+- [40. Find All Triplets with Zero Sum.py](GFG/40_Find_All_Triplets_with_Zero_Sum.py)
   
 - [graph.py](GFG/graph.py)
 
