@@ -1,4 +1,4 @@
-def spirallyTraverse(mat):
+def spirallyTraverse(self, mat):
     # code here
     
     if not mat:
@@ -30,9 +30,6 @@ def spirallyTraverse(mat):
             for i in range(bottom, top-1,-1):
                 result.append(mat[i][left])
             left += 1
+            
         
     return result
-
-mat = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]]
-print("Input: ",mat)    
-print("Output: ",spirallyTraverse(mat))

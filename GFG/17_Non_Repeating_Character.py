@@ -16,7 +16,6 @@ def nonRepeatingChar(s):
     return "$"
 
 
-
 s = ["geeksforgeeks","racecar","aabbccc""aabbccc"]
 for i in s:
     print("Input: ",i)

@@ -13,7 +13,6 @@ def setMatrixZeroes(mat):
                 r.append(i)
                 c.append(j)
     
-    
     for a in r:
         for b in range(c_n):
             mat[a][b] = 0
@@ -23,7 +22,6 @@ def setMatrixZeroes(mat):
             mat[c1][d] = 0
             
     return mat
-
 
 mat = [[1,-1,1],[-1,0,1],[1,-1,1]]
 print("Input: ",mat)
