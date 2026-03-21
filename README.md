@@ -44,6 +44,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [39. Count pairs with given sum.py](GFG/39_Count_pairs_with_given_sum.py)
 - [40. Find All Triplets with Zero Sum.py](GFG/40_Find_All_Triplets_with_Zero_Sum.py)
 - [41. Intersection of Two arrays with Duplicate Elements.py](GFG/41_Intersection_of_Two_arrays_with_Duplicate_Elements.py)
+- [42. Union of Arrays with Duplicates.py](GFG/42_Union_of_Arrays__with_Duplicates.py)
   
 - [graph.py](GFG/graph.py)
 
