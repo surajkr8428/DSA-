@@ -46,6 +46,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [41. Intersection of Two arrays with Duplicate Elements.py](GFG/41_Intersection_of_Two_arrays_with_Duplicate_Elements.py)
 - [42. Union of Arrays with Duplicates.py](GFG/42_Union_of_Arrays__with_Duplicates.py)
 - [43. Longest Consecutive Subsequence.py](GFG/43_Longest_Consecutive_Subsequence.py)
+- [44. Print Anagrams Together.py](GFG/44_Print_Anagrams__Together.py)
   
 - [graph.py](GFG/graph.py)
 
