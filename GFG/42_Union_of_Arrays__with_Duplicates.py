@@ -1,5 +1,6 @@
 def findUnion(a, b):
     # code here
+    
     a.extend(b)
     a = set(a)
     return a
