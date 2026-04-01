@@ -47,6 +47,7 @@ A collection of Data Structures and Algorithms practice problems and solutions.
 - [42. Union of Arrays with Duplicates.py](GFG/42_Union_of_Arrays__with_Duplicates.py)
 - [43. Longest Consecutive Subsequence.py](GFG/43_Longest_Consecutive_Subsequence.py)
 - [44. Print Anagrams Together.py](GFG/44_Print_Anagrams__Together.py)
+- [45. Count Subarrays with given XOR.py](GFG/45_Count_Subarrays_with_given_XOR.py)
   
 - [graph.py](GFG/graph.py)
 
